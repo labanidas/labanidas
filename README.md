@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Labani Das</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" width="250" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labanidas&label=Profile%20views&color=0e75b6&style=flat" alt="labanidas" /> </p>
+<img align="right" width="300px" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labanidas" alt="labanidas" /></a> </p>
 
